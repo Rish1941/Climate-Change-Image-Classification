@@ -1,2 +1,2 @@
-# LV
-Omnichannel Project
+# Image Classification
+
